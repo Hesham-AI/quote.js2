@@ -1,0 +1,50 @@
+
+#home{
+
+background-image: url(../img/pexels-eberhard-grossgasteiger-691668.jpg);
+background-position: center center ;
+background-size: cover;
+height: 100vh;
+
+}
+
+.container .head h2{
+
+    font-family: 'Anton', sans-serif;
+    font-weight: 900;
+    font-size: 50px;
+    
+}
+.container .head p{
+   
+    font-family: 'Whisper', cursive;
+    font-weight: 600;
+    font-size:70px ;
+    color:rgb(18, 26, 5)
+    
+}
+
+#quote-random{
+    font-family: 'Whisper', cursive;
+font-weight: 900;
+font-size: 30px;
+border-radius: 43%;
+color: rgb(200, 170, 170);
+background-color: rgba(132, 134, 135, 0.6);
+}
+#quote-random h3{
+    font-size: 40px;
+    font-weight: 500;
+    color: white;
+   
+    border-radius: 50%;
+    width: 50%;
+    margin:auto ;
+}
+.container button{
+    background-color: rgb(200, 24, 24);
+}
+.container button:hover{
+    background-color:rgb(101, 98, 98);
+    color: white;
+}
